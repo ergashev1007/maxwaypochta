@@ -1,0 +1,84 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    background-color: rgb(228, 216, 216);
+    margin: 0;
+}
+.active a{
+    text-decoration: none;
+}
+.fast-food{
+    padding: 10px 16px;
+    background: rgb(255, 253, 253);
+}   
+.banan{
+    margin-top: 70px;
+}
+.col{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.bbb{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.h3{
+    margin-left: 100px;
+}footer{
+    background: #51267d;
+    width: 1547px;
+    height: 387px;
+}
+.maks .logosi img{
+    margin-left: 650px;
+    margin-top: 80px;
+}
+.ullu{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    width: 50%;
+    margin-left: 320px;
+    margin-top: 30px;
+}
+.ullu li{
+    list-style:none;
+}
+.ullu a{
+    text-decoration: none;
+    color: white;
+}
+.oxirgi{
+    color: rgb(221, 214, 214);
+    font-family: 'Proxima-Nova', sans-serif;
+    font-size: 15px;
+    margin-left: -60px;
+    margin-top: 40px;
+
+}
+.ava{
+    font-size: 100px;
+}
+.ikonka{
+    display: flex;
+    justify-content: space-around;
+}
+.second{
+    padding-right: 20px;
+}
+.the-end {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(224, 221, 221);
+}
+.the-end p{
+    margin-right: 120px;
+}
+.the-end h6{
+    margin-left: 400px;
+}
